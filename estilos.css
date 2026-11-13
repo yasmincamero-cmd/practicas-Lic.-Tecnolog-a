@@ -223,4 +223,19 @@ hr {
     padding: 5px 10px 15px 10px;
     margin: 0;
 }
-
+.menu{
+    margin:16px 0;
+}
+.menu a{
+    display: inline-block;
+    padding: 8px 16px;
+    border: 1px solid #12355b;
+    border-radius: 6px;
+    text-decoration: none;
+    color: #12355b;
+}
+.menu a:hover,
+.menu a: focus{
+    background:#12355b;
+    color:#fff;
+}
